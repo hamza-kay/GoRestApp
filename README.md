@@ -27,6 +27,15 @@ $ go build
   - ```DELETE```: delete a specific book
 
 
+## Data Structure
+
+    { 
+        "title": "test",
+        "author": "testname",
+        "rating": 0 
+    }
+
+
 
 
 
