@@ -3,9 +3,8 @@
 
 ## Installation
 ```
-$ go get github.com/kkamdooong/go-restful-api-example
-$ cd $GOPATH/src/github.com/kkamdooong/go-restful-api-example
+$ go get github.com/hamza-kay/GoRestApp
+$ cd $GOPATH/src/github.com/hamza-kay/GoRestApp
 $ go build
-$ ./go-restful-api-example
 ```
 
